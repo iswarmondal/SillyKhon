@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SillyKhon/static/css/main.8249f753.chunk.css",
-    "main.js": "/SillyKhon/static/js/main.7f24cb0c.chunk.js",
-    "main.js.map": "/SillyKhon/static/js/main.7f24cb0c.chunk.js.map",
+    "main.js": "/SillyKhon/static/js/main.e58a8946.chunk.js",
+    "main.js.map": "/SillyKhon/static/js/main.e58a8946.chunk.js.map",
     "runtime-main.js": "/SillyKhon/static/js/runtime-main.7917e634.js",
     "runtime-main.js.map": "/SillyKhon/static/js/runtime-main.7917e634.js.map",
-    "static/js/2.fb035eec.chunk.js": "/SillyKhon/static/js/2.fb035eec.chunk.js",
-    "static/js/2.fb035eec.chunk.js.map": "/SillyKhon/static/js/2.fb035eec.chunk.js.map",
+    "static/js/2.28e78a01.chunk.js": "/SillyKhon/static/js/2.28e78a01.chunk.js",
+    "static/js/2.28e78a01.chunk.js.map": "/SillyKhon/static/js/2.28e78a01.chunk.js.map",
     "static/js/3.c28cad8e.chunk.js": "/SillyKhon/static/js/3.c28cad8e.chunk.js",
     "static/js/3.c28cad8e.chunk.js.map": "/SillyKhon/static/js/3.c28cad8e.chunk.js.map",
     "index.html": "/SillyKhon/index.html",
     "static/css/main.8249f753.chunk.css.map": "/SillyKhon/static/css/main.8249f753.chunk.css.map",
-    "static/js/2.fb035eec.chunk.js.LICENSE.txt": "/SillyKhon/static/js/2.fb035eec.chunk.js.LICENSE.txt",
+    "static/js/2.28e78a01.chunk.js.LICENSE.txt": "/SillyKhon/static/js/2.28e78a01.chunk.js.LICENSE.txt",
     "static/media/style.css": "/SillyKhon/static/media/bg-img.9910d5ef.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7917e634.js",
-    "static/js/2.fb035eec.chunk.js",
+    "static/js/2.28e78a01.chunk.js",
     "static/css/main.8249f753.chunk.css",
-    "static/js/main.7f24cb0c.chunk.js"
+    "static/js/main.e58a8946.chunk.js"
   ]
 }
