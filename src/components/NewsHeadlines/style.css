@@ -1,0 +1,39 @@
+.container-fluid {
+  background-image: url(./bg-img.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 100wh;
+  padding: 10vw;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-column-gap: 10vw;
+  grid-row-gap: 30vh;
+}
+.box {
+  backdrop-filter: blur(2rem);
+  border: solid rgba(255, 255, 255, 0.596) 2px;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  box-shadow: 0px 0px 15px 0px rgba(255, 227, 255, 0.596);
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(255, 227, 255, 0.616);
+  -moz-box-shadow: 0px 0px 15px 0px rgba(255, 227, 255, 0.459);
+}
+a {
+  color: rgb(255, 236, 255);
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(187, 187, 187);
+  text-decoration: none;
+}
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+img:hover {
+  filter: grayscale(0.7);
+  animation: 100ms ease-in-out;
+}
